@@ -14,4 +14,4 @@ jobs:
         run: ip -4 a
 
       - name: Step 3 - Who am I
-        run: who am i || echo "Not available in non-interactive shell"
+        run: who am i
