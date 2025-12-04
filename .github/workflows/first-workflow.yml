@@ -1,6 +1,7 @@
 name: System Info
 
-on: push
+on:
+  workflow_dispatch:
 
 jobs:
   system-info-job:
