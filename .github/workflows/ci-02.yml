@@ -1,4 +1,4 @@
-name: System Info
+name: CI 02 - System Info
 
 on:
   workflow_dispatch:

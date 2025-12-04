@@ -1,4 +1,4 @@
-name: Alpine System Info
+name: CI 03 - System Info in Container
 
 on:
   workflow_dispatch:

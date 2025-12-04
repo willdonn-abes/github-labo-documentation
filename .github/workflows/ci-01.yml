@@ -1,4 +1,4 @@
-name: System Info
+name: CI 01 - System Info
 
 on: push
 
